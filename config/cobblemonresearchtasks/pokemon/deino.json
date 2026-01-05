@@ -1,0 +1,45 @@
+{
+  "species": "deino",
+  "dex": 633,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Deino"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Deino"
+    },
+    {
+      "id": "defeat_species_aron",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "aron",
+      "title": "Defeat Aron with Deino"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Deino"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Deino"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_aron",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

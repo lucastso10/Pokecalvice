@@ -1,0 +1,51 @@
+{
+  "species": "maushold",
+  "dex": 925,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Tandemaus into Maushold"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Maushold"
+    },
+    {
+      "id": "defeat_species_electrike",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "electrike",
+      "title": "Defeat Electrike with Maushold"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Maushold"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Maushold"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Maushold"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_electrike",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

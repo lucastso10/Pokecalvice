@@ -1,0 +1,51 @@
+{
+  "species": "tranquill",
+  "dex": 520,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Pidove into Tranquill"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Tranquill"
+    },
+    {
+      "id": "defeat_species_venomoth",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "venomoth",
+      "title": "Defeat Venomoth with Tranquill"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Tranquill"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Tranquill"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Tranquill"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_venomoth",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

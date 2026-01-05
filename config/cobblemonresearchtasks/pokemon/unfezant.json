@@ -1,0 +1,51 @@
+{
+  "species": "unfezant",
+  "dex": 521,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Tranquill into Unfezant"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Unfezant"
+    },
+    {
+      "id": "defeat_species_exeggcute",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "exeggcute",
+      "title": "Defeat Exeggcute with Unfezant"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Unfezant"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Unfezant"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Unfezant"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_exeggcute",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

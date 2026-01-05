@@ -1,0 +1,58 @@
+{
+  "species": "politoed",
+  "dex": 186,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Poliwhirl into Politoed"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Politoed"
+    },
+    {
+      "id": "defeat_species_exeggcute",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "exeggcute",
+      "title": "Defeat Exeggcute with Politoed"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Politoed"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Politoed"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Politoed"
+    },
+    {
+      "id": "fish_1",
+      "type": "FISH_THIS",
+      "amount": 1,
+      "title": "Fish up Politoed"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_exeggcute",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30",
+    "fish_1"
+  ]
+}

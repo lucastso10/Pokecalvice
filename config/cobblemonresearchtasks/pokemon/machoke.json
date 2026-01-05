@@ -1,0 +1,51 @@
+{
+  "species": "machoke",
+  "dex": 67,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Machop into Machoke"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Machoke"
+    },
+    {
+      "id": "defeat_species_kabutops",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "kabutops",
+      "title": "Defeat Kabutops with Machoke"
+    },
+    {
+      "id": "defeat_type_flying_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "flying",
+      "title": "Defeat Flying-type Pokémon with Machoke"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Machoke"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Machoke"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_kabutops",
+    "defeat_type_flying_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

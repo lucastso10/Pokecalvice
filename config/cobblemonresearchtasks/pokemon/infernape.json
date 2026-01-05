@@ -1,0 +1,51 @@
+{
+  "species": "infernape",
+  "dex": 392,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Monferno into Infernape"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Infernape"
+    },
+    {
+      "id": "defeat_species_plusle",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "plusle",
+      "title": "Defeat Plusle with Infernape"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Infernape"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Infernape"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Infernape"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_plusle",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

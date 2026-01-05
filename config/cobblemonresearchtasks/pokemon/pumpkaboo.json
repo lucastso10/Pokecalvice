@@ -1,0 +1,45 @@
+{
+  "species": "pumpkaboo",
+  "dex": 710,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Pumpkaboo"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Pumpkaboo"
+    },
+    {
+      "id": "defeat_species_diglett",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "diglett",
+      "title": "Defeat Diglett with Pumpkaboo"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Pumpkaboo"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Pumpkaboo"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_diglett",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

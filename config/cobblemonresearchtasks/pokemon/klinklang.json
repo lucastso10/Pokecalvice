@@ -1,0 +1,58 @@
+{
+  "species": "klinklang",
+  "dex": 601,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Klang into Klinklang"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Klinklang for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Klinklang"
+    },
+    {
+      "id": "defeat_species_pikachu",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "pikachu",
+      "title": "Defeat Pikachu with Klinklang"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Klinklang"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Klinklang"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Klinklang"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "ride_3k",
+    "defeat_any_30",
+    "defeat_species_pikachu",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

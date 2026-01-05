@@ -1,0 +1,13 @@
+name = "DoomsDay Projects Reborn 2"
+filename = "DoomsDay Projects Reborn 2-0.0.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "270bacdade7448232b14dbb1c2137d978d4d0942"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5832998
+project-id = 1125713

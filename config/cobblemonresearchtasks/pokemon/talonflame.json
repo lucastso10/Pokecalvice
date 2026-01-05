@@ -1,0 +1,51 @@
+{
+  "species": "talonflame",
+  "dex": 663,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Fletchinder into Talonflame"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Talonflame"
+    },
+    {
+      "id": "defeat_species_geodude",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "geodude",
+      "title": "Defeat Geodude with Talonflame"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Talonflame"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Talonflame"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Talonflame"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_geodude",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

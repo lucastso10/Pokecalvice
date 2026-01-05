@@ -1,0 +1,51 @@
+{
+  "species": "pawmot",
+  "dex": 923,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Pawmo into Pawmot"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Pawmot"
+    },
+    {
+      "id": "defeat_species_zigzagoon",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "zigzagoon",
+      "title": "Defeat Zigzagoon with Pawmot"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Pawmot"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Pawmot"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Pawmot"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_zigzagoon",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

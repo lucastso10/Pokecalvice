@@ -1,0 +1,52 @@
+{
+  "species": "wattrel",
+  "dex": 940,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Wattrel"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Wattrel"
+    },
+    {
+      "id": "defeat_species_machop",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "machop",
+      "title": "Defeat Machop with Wattrel"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Wattrel"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Wattrel"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Wattrel"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_machop",
+    "defeat_type_fighting_5",
+    "level_up_10",
+    "fish_3"
+  ]
+}

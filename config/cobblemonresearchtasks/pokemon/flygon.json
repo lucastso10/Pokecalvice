@@ -1,0 +1,58 @@
+{
+  "species": "flygon",
+  "dex": 330,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Vibrava into Flygon"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Flygon for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Flygon"
+    },
+    {
+      "id": "defeat_species_plusle",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "plusle",
+      "title": "Defeat Plusle with Flygon"
+    },
+    {
+      "id": "defeat_type_ice_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "ice",
+      "title": "Defeat Ice-type Pokémon with Flygon"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Flygon"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Flygon"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "ride_3k",
+    "defeat_any_30",
+    "defeat_species_plusle",
+    "defeat_type_ice_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

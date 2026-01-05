@@ -1,0 +1,45 @@
+{
+  "species": "mudbray",
+  "dex": 749,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Mudbray"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Mudbray"
+    },
+    {
+      "id": "defeat_species_linoone",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "linoone",
+      "title": "Defeat Linoone with Mudbray"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Mudbray"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Mudbray"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_linoone",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

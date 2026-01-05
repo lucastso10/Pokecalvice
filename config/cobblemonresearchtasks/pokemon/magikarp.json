@@ -1,0 +1,29 @@
+{
+  "species": "magikarp",
+  "dex": 129,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Magikarp"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Magikarp"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Magikarp"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "level_up_10",
+    "fish_3"
+  ]
+}

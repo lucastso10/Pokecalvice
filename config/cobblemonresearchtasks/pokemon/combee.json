@@ -1,0 +1,45 @@
+{
+  "species": "combee",
+  "dex": 415,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Combee"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Combee"
+    },
+    {
+      "id": "defeat_species_natu",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "natu",
+      "title": "Defeat Natu with Combee"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Combee"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Combee"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_natu",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

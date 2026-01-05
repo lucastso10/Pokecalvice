@@ -1,0 +1,52 @@
+{
+  "species": "ting lu",
+  "dex": 1003,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Ting Lu"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Ting Lu"
+    },
+    {
+      "id": "defeat_species_golbat",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "golbat",
+      "title": "Defeat Golbat with Ting Lu"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Ting Lu"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Ting Lu"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Ting Lu"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_40",
+    "defeat_species_golbat",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "species": "sprigatito",
+  "dex": 906,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Sprigatito"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Sprigatito"
+    },
+    {
+      "id": "defeat_species_mightyena",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "mightyena",
+      "title": "Defeat Mightyena with Sprigatito"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Sprigatito"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Sprigatito"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_mightyena",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

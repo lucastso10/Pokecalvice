@@ -1,0 +1,45 @@
+{
+  "species": "sandile",
+  "dex": 551,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Sandile"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Sandile"
+    },
+    {
+      "id": "defeat_species_psyduck",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "psyduck",
+      "title": "Defeat Psyduck with Sandile"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Sandile"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Sandile"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_psyduck",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

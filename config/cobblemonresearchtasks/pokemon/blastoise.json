@@ -1,0 +1,65 @@
+{
+  "species": "blastoise",
+  "dex": 9,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Wartortle into Blastoise"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Blastoise for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Blastoise"
+    },
+    {
+      "id": "defeat_species_flygon",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "flygon",
+      "title": "Defeat Flygon with Blastoise"
+    },
+    {
+      "id": "defeat_type_grass_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "grass",
+      "title": "Defeat Grass-type Pokémon with Blastoise"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Blastoise"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Blastoise"
+    },
+    {
+      "id": "fish_1",
+      "type": "FISH_THIS",
+      "amount": 1,
+      "title": "Fish up Blastoise"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "ride_3k",
+    "defeat_any_30",
+    "defeat_species_flygon",
+    "defeat_type_grass_20",
+    "friendship_120",
+    "level_up_30",
+    "fish_1"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "species": "serperior",
+  "dex": 497,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Servine into Serperior"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Serperior for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Serperior"
+    },
+    {
+      "id": "defeat_species_ledian",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "ledian",
+      "title": "Defeat Ledian with Serperior"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Serperior"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Serperior"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Serperior"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "ride_3k",
+    "defeat_any_30",
+    "defeat_species_ledian",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "species": "manaphy",
+  "dex": 490,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Phione into Manaphy"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Manaphy"
+    },
+    {
+      "id": "defeat_species_azumarill",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "azumarill",
+      "title": "Defeat Azumarill with Manaphy"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Manaphy"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Manaphy"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Manaphy"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_40",
+    "defeat_species_azumarill",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

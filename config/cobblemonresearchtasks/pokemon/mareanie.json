@@ -1,0 +1,52 @@
+{
+  "species": "mareanie",
+  "dex": 747,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Mareanie"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Mareanie"
+    },
+    {
+      "id": "defeat_species_roggenrola",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "roggenrola",
+      "title": "Defeat Roggenrola with Mareanie"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Mareanie"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Mareanie"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Mareanie"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_roggenrola",
+    "defeat_type_fighting_5",
+    "level_up_10",
+    "fish_3"
+  ]
+}

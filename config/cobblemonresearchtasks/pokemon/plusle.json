@@ -1,0 +1,52 @@
+{
+  "species": "plusle",
+  "dex": 311,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Plusle"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Plusle"
+    },
+    {
+      "id": "defeat_species_psyduck",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "psyduck",
+      "title": "Defeat Psyduck with Plusle"
+    },
+    {
+      "id": "defeat_type_ground_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "ground",
+      "title": "Defeat Ground-type Pokémon with Plusle"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Plusle"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Plusle"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_20",
+    "defeat_species_psyduck",
+    "defeat_type_ground_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

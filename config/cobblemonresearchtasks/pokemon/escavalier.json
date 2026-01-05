@@ -1,0 +1,51 @@
+{
+  "species": "escavalier",
+  "dex": 589,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Karrablast into Escavalier"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Escavalier"
+    },
+    {
+      "id": "defeat_species_xatu",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "xatu",
+      "title": "Defeat Xatu with Escavalier"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Escavalier"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Escavalier"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Escavalier"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_xatu",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

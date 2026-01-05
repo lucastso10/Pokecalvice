@@ -1,0 +1,51 @@
+{
+  "species": "runerigus",
+  "dex": 867,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Yamask into Runerigus"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Runerigus"
+    },
+    {
+      "id": "defeat_species_aron",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "aron",
+      "title": "Defeat Aron with Runerigus"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Runerigus"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Runerigus"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Runerigus"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_aron",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "species": "starmie",
+  "dex": 121,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Staryu into Starmie"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Starmie"
+    },
+    {
+      "id": "defeat_species_venonat",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "venonat",
+      "title": "Defeat Venonat with Starmie"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Starmie"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Starmie"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Starmie"
+    },
+    {
+      "id": "fish_2",
+      "type": "FISH_THIS",
+      "amount": 2,
+      "title": "Fish up Starmie"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_venonat",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "fish_2"
+  ]
+}

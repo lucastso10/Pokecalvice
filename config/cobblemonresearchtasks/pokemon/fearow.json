@@ -1,0 +1,51 @@
+{
+  "species": "fearow",
+  "dex": 22,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Spearow into Fearow"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Fearow"
+    },
+    {
+      "id": "defeat_species_shroomish",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "shroomish",
+      "title": "Defeat Shroomish with Fearow"
+    },
+    {
+      "id": "defeat_type_ice_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "ice",
+      "title": "Defeat Ice-type Pokémon with Fearow"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Fearow"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Fearow"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_shroomish",
+    "defeat_type_ice_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

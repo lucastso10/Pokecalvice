@@ -1,0 +1,58 @@
+{
+  "species": "parasect",
+  "dex": 47,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Paras into Parasect"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Parasect for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Parasect"
+    },
+    {
+      "id": "defeat_species_kabuto",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "kabuto",
+      "title": "Defeat Kabuto with Parasect"
+    },
+    {
+      "id": "defeat_type_flying_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "flying",
+      "title": "Defeat Flying-type Pokémon with Parasect"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Parasect"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Parasect"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "ride_3k",
+    "defeat_any_20",
+    "defeat_species_kabuto",
+    "defeat_type_flying_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

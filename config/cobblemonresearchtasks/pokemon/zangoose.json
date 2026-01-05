@@ -1,0 +1,52 @@
+{
+  "species": "zangoose",
+  "dex": 335,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Zangoose"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Zangoose"
+    },
+    {
+      "id": "defeat_species_minun",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "minun",
+      "title": "Defeat Minun with Zangoose"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Zangoose"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Zangoose"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Zangoose"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_20",
+    "defeat_species_minun",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

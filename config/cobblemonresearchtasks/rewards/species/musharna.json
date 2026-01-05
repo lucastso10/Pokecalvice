@@ -1,0 +1,25 @@
+{
+  "species": "musharna",
+  "rewards": [
+    {
+      "id": "cobblemon:relic_coin",
+      "count": 16
+    },
+    {
+      "id": "cobblemon:exp_candy_s",
+      "count": 24
+    },
+    {
+      "id": "cobblemon:ancient_great_ball",
+      "count": 12
+    },
+    {
+      "id": "cobblemon:super_potion",
+      "count": 8
+    },
+    {
+      "id": "cobblemon:rare_candy",
+      "count": 3
+    }
+  ]
+}

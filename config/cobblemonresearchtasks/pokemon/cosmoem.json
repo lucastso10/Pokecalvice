@@ -1,0 +1,28 @@
+{
+  "species": "cosmoem",
+  "dex": 790,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Cosmog into Cosmoem"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Cosmoem"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Cosmoem"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "species": "lanturn",
+  "dex": 171,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Chinchou into Lanturn"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Lanturn"
+    },
+    {
+      "id": "defeat_species_nincada",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "nincada",
+      "title": "Defeat Nincada with Lanturn"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Lanturn"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Lanturn"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Lanturn"
+    },
+    {
+      "id": "fish_2",
+      "type": "FISH_THIS",
+      "amount": 2,
+      "title": "Fish up Lanturn"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_nincada",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "fish_2"
+  ]
+}

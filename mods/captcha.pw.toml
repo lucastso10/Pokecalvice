@@ -1,0 +1,13 @@
+name = "Captcha"
+filename = "Captcha-neoforge-1.21.1-9.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e015SVoM/versions/JjsWhkvW/Captcha-neoforge-1.21.1-9.0.1.jar"
+hash-format = "sha512"
+hash = "ecbd8623d5dae961eadf80fa935677cb02240c678d1711b630c08f255a3cae8335ed4f2052e50cba168a24c6276f16cb1f9cb9b74044f818d25a7beb08c3ab18"
+
+[update]
+[update.modrinth]
+mod-id = "e015SVoM"
+version = "JjsWhkvW"

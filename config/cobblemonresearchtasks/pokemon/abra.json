@@ -1,0 +1,22 @@
+{
+  "species": "abra",
+  "dex": 63,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Abra"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Abra"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "level_up_10"
+  ]
+}

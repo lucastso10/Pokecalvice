@@ -1,0 +1,45 @@
+{
+  "species": "seedot",
+  "dex": 273,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Seedot"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Seedot"
+    },
+    {
+      "id": "defeat_species_vibrava",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "vibrava",
+      "title": "Defeat Vibrava with Seedot"
+    },
+    {
+      "id": "defeat_type_ice_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "ice",
+      "title": "Defeat Ice-type Pokémon with Seedot"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Seedot"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_vibrava",
+    "defeat_type_ice_5",
+    "level_up_10"
+  ]
+}

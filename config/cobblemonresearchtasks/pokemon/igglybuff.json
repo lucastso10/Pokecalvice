@@ -1,0 +1,45 @@
+{
+  "species": "igglybuff",
+  "dex": 174,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Igglybuff"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Igglybuff"
+    },
+    {
+      "id": "defeat_species_ledian",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "ledian",
+      "title": "Defeat Ledian with Igglybuff"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Igglybuff"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Igglybuff"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_ledian",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

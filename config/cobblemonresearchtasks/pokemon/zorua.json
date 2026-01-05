@@ -1,0 +1,45 @@
+{
+  "species": "zorua",
+  "dex": 570,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Zorua"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Zorua"
+    },
+    {
+      "id": "defeat_species_flaaffy",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "flaaffy",
+      "title": "Defeat Flaaffy with Zorua"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Zorua"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Zorua"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_flaaffy",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

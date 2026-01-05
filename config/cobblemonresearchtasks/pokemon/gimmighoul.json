@@ -1,0 +1,45 @@
+{
+  "species": "gimmighoul",
+  "dex": 999,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Gimmighoul"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Gimmighoul"
+    },
+    {
+      "id": "defeat_species_ariados",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "ariados",
+      "title": "Defeat Ariados with Gimmighoul"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Gimmighoul"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Gimmighoul"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_ariados",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

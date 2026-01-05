@@ -1,0 +1,58 @@
+{
+  "species": "milotic",
+  "dex": 350,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Feebas into Milotic"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Milotic"
+    },
+    {
+      "id": "defeat_species_machoke",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "machoke",
+      "title": "Defeat Machoke with Milotic"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Milotic"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Milotic"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Milotic"
+    },
+    {
+      "id": "fish_1",
+      "type": "FISH_THIS",
+      "amount": 1,
+      "title": "Fish up Milotic"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_machoke",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30",
+    "fish_1"
+  ]
+}

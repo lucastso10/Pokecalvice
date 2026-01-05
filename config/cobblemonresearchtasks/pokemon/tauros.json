@@ -1,0 +1,59 @@
+{
+  "species": "tauros",
+  "dex": 128,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Tauros"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Tauros for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Tauros"
+    },
+    {
+      "id": "defeat_species_mareep",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "mareep",
+      "title": "Defeat Mareep with Tauros"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Tauros"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Tauros"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Tauros"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "ride_3k",
+    "defeat_any_20",
+    "defeat_species_mareep",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

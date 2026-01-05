@@ -1,0 +1,51 @@
+{
+  "species": "vibrava",
+  "dex": 329,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Trapinch into Vibrava"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Vibrava"
+    },
+    {
+      "id": "defeat_species_minun",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "minun",
+      "title": "Defeat Minun with Vibrava"
+    },
+    {
+      "id": "defeat_type_grass_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "grass",
+      "title": "Defeat Grass-type Pokémon with Vibrava"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Vibrava"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Vibrava"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_minun",
+    "defeat_type_grass_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

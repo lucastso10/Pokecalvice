@@ -1,0 +1,52 @@
+{
+  "species": "wooper",
+  "dex": 194,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Wooper"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Wooper"
+    },
+    {
+      "id": "defeat_species_zubat",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "zubat",
+      "title": "Defeat Zubat with Wooper"
+    },
+    {
+      "id": "defeat_type_water_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "water",
+      "title": "Defeat Water-type Pokémon with Wooper"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Wooper"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Wooper"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_zubat",
+    "defeat_type_water_5",
+    "level_up_10",
+    "fish_3"
+  ]
+}

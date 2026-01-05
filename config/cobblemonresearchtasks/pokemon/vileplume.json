@@ -1,0 +1,51 @@
+{
+  "species": "vileplume",
+  "dex": 45,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Gloom into Vileplume"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Vileplume"
+    },
+    {
+      "id": "defeat_species_baltoy",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "baltoy",
+      "title": "Defeat Baltoy with Vileplume"
+    },
+    {
+      "id": "defeat_type_ground_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "ground",
+      "title": "Defeat Ground-type Pokémon with Vileplume"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Vileplume"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Vileplume"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_baltoy",
+    "defeat_type_ground_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

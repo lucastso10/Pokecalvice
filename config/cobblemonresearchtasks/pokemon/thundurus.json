@@ -1,0 +1,52 @@
+{
+  "species": "thundurus",
+  "dex": 642,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Thundurus"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Thundurus"
+    },
+    {
+      "id": "defeat_species_baltoy",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "baltoy",
+      "title": "Defeat Baltoy with Thundurus"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Thundurus"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Thundurus"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Thundurus"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_40",
+    "defeat_species_baltoy",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

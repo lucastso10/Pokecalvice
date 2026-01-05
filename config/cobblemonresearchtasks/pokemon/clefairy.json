@@ -1,0 +1,44 @@
+{
+  "species": "clefairy",
+  "dex": 35,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Cleffa into Clefairy"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Clefairy"
+    },
+    {
+      "id": "defeat_species_flygon",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "flygon",
+      "title": "Defeat Flygon with Clefairy"
+    },
+    {
+      "id": "defeat_type_steel_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "steel",
+      "title": "Defeat Steel-type Pokémon with Clefairy"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Clefairy"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_10",
+    "defeat_species_flygon",
+    "defeat_type_steel_5",
+    "level_up_10"
+  ]
+}

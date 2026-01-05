@@ -1,0 +1,25 @@
+#Minimum speed required for the MHM to activate
+# Default: 16.0
+# Range: 0.0 ~ 1.7976931348623157E308
+minActivationSpeed = 16.0
+#Stress impact per unit of speed
+# Default: 8.0
+# Range: 0.0 ~ 1.7976931348623157E308
+mhmStressImpact = 8.0
+#At what speed should the maximum healing rate should be
+# Default: 256.0
+# Range: 0.0 ~ 1.7976931348623157E308
+maxHealRotSpeed = 256.0
+#Amount healed every tick per rpm
+# Default: 0.025
+# Range: 1.0E-4 ~ 1.7976931348623157E308
+maxHealRateFixed = 0.025
+#Percent healed every tick per rpm
+#Heals whichever is higher between the fixed and percent values
+# Default: 0.04
+# Range: 1.0E-4 ~ 1.7976931348623157E308
+maxHealRatePercent = 0.04
+#ADVANCED: The percent heal rate is calculated with a exponential function. Adjust the steepness with this value.
+# Default: 2.5
+# Range: 0.01 ~ 1.7976931348623157E308
+healRatePercentSteepness = 2.5

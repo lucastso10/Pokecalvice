@@ -1,0 +1,45 @@
+{
+  "species": "venonat",
+  "dex": 48,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Venonat"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Venonat"
+    },
+    {
+      "id": "defeat_species_clefairy",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "clefairy",
+      "title": "Defeat Clefairy with Venonat"
+    },
+    {
+      "id": "defeat_type_fire_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fire",
+      "title": "Defeat Fire-type Pokémon with Venonat"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Venonat"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_clefairy",
+    "defeat_type_fire_5",
+    "level_up_10"
+  ]
+}

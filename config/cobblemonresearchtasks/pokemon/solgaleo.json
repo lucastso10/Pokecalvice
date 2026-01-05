@@ -1,0 +1,51 @@
+{
+  "species": "solgaleo",
+  "dex": 791,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Cosmoem into Solgaleo"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Solgaleo"
+    },
+    {
+      "id": "defeat_species_clefairy",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "clefairy",
+      "title": "Defeat Clefairy with Solgaleo"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Solgaleo"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Solgaleo"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Solgaleo"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_40",
+    "defeat_species_clefairy",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

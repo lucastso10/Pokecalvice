@@ -1,0 +1,59 @@
+{
+  "species": "moltres",
+  "dex": 146,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Moltres"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Moltres for 3000 blocks"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Moltres"
+    },
+    {
+      "id": "defeat_species_raticate",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "raticate",
+      "title": "Defeat Raticate with Moltres"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Moltres"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Moltres"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Moltres"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "ride_3k",
+    "defeat_any_40",
+    "defeat_species_raticate",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

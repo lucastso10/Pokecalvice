@@ -1,0 +1,13 @@
+name = "Cobblemon Knowlogy"
+filename = "cobblemon_knowlogy-neoforge-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dba1h0rW/versions/klyD29Q4/cobblemon_knowlogy-neoforge-1.5.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "9d1d5d5bae39d6336d466ac26121424b09a2c245857b7b4e02784f5467144e7edfdff18c620c8e3a3f34ccad0f77384ddab59b0e797706d843c0ccb51e065af3"
+
+[update]
+[update.modrinth]
+mod-id = "dba1h0rW"
+version = "klyD29Q4"

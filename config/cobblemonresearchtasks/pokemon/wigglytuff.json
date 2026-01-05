@@ -1,0 +1,51 @@
+{
+  "species": "wigglytuff",
+  "dex": 40,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Jigglypuff into Wigglytuff"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Wigglytuff"
+    },
+    {
+      "id": "defeat_species_flygon",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "flygon",
+      "title": "Defeat Flygon with Wigglytuff"
+    },
+    {
+      "id": "defeat_type_poison_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "poison",
+      "title": "Defeat Poison-type Pokémon with Wigglytuff"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Wigglytuff"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Wigglytuff"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_flygon",
+    "defeat_type_poison_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

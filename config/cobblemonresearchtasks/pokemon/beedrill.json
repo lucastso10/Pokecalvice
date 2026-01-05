@@ -1,0 +1,51 @@
+{
+  "species": "beedrill",
+  "dex": 15,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Kakuna into Beedrill"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Beedrill"
+    },
+    {
+      "id": "defeat_species_shiftry",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "shiftry",
+      "title": "Defeat Shiftry with Beedrill"
+    },
+    {
+      "id": "defeat_type_fire_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fire",
+      "title": "Defeat Fire-type Pokémon with Beedrill"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Beedrill"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Beedrill"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_shiftry",
+    "defeat_type_fire_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

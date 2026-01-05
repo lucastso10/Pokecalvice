@@ -1,0 +1,52 @@
+{
+  "species": "throh",
+  "dex": 538,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Throh"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Throh"
+    },
+    {
+      "id": "defeat_species_meowth",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "meowth",
+      "title": "Defeat Meowth with Throh"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Throh"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Throh"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Throh"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_20",
+    "defeat_species_meowth",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

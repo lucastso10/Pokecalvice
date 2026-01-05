@@ -1,0 +1,52 @@
+{
+  "species": "goldeen",
+  "dex": 118,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Goldeen"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Goldeen"
+    },
+    {
+      "id": "defeat_species_trapinch",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "trapinch",
+      "title": "Defeat Trapinch with Goldeen"
+    },
+    {
+      "id": "defeat_type_grass_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "grass",
+      "title": "Defeat Grass-type Pokémon with Goldeen"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Goldeen"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Goldeen"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_trapinch",
+    "defeat_type_grass_5",
+    "level_up_10",
+    "fish_3"
+  ]
+}

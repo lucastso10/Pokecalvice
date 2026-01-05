@@ -1,0 +1,103 @@
+{
+  "tiers": {
+    "1": [
+      { "id": "cobblemon:ultra_ball", "count": 32 },
+      { "id": "cobblemon:beast_ball", "count": 5 },
+      { "id": "cobblemon:rare_candy", "count": 16 },
+      { "id": "cobblemon:master_ball", "count": 1 },
+      { "id": "minecraft:emerald", "count": 32 },
+      { "id": "minecraft:diamond", "count": 16 }
+    ],
+    "2": [
+      { "id": "cobblemon:beast_ball", "count": 10 },
+      { "id": "cobblemon:rare_candy", "count": 24 },
+      { "id": "cobblemon:master_ball", "count": 2 },
+      { "id": "minecraft:emerald", "count": 48 },
+      { "id": "minecraft:diamond", "count": 32 },
+      { "id": "minecraft:netherite_ingot", "count": 2 },
+      { "id": "cobblemon:iron", "count": 3 },
+      { "id": "cobblemon:zinc", "count": 3 },
+      { "id": "cobblemon:carbos", "count": 3 },
+      { "id": "cobblemon:calcium", "count": 3 },
+      { "id": "cobblemon:protein", "count": 3 },
+      { "id": "cobblemon:hp_up", "count": 3 },
+      { "id": "cobblemon:exp_candy_l", "count": 3 }
+    ],
+    "3": [
+      { "id": "cobblemon:beast_ball", "count": 16 },
+      { "id": "cobblemon:master_ball", "count": 3 },
+      { "id": "cobblemon:rare_candy", "count": 32 },
+      { "id": "cobblemon:iron", "count": 5 },
+      { "id": "cobblemon:zinc", "count": 5 },
+      { "id": "cobblemon:carbos", "count": 5 },
+      { "id": "cobblemon:calcium", "count": 5 },
+      { "id": "cobblemon:protein", "count": 5 },
+      { "id": "cobblemon:hp_up", "count": 5 },
+      { "id": "cobblemon:exp_candy_l", "count": 5 },
+      { "id": "cobblemon:relic_coin_pouch", "count": 32 },
+      { "id": "minecraft:netherite_ingot", "count": 2 },
+      { "id": "minecraft:diamond", "count": 48 }
+    ],
+    "4": [
+      { "id": "cobblemon:beast_ball", "count": 16 },
+      { "id": "cobblemon:master_ball", "count": 4 },
+      { "id": "cobblemon:rare_candy", "count": 40 },
+      { "id": "cobblemon:iron", "count": 7 },
+      { "id": "cobblemon:zinc", "count": 7 },
+      { "id": "cobblemon:carbos", "count": 7 },
+      { "id": "cobblemon:calcium", "count": 7 },
+      { "id": "cobblemon:protein", "count": 7 },
+      { "id": "cobblemon:hp_up", "count": 7 },
+      { "id": "cobblemon:exp_candy_l", "count": 7 },
+      { "id": "cobblemon:relic_coin_pouch", "count": 48 },
+      { "id": "minecraft:netherite_ingot", "count": 3 },
+      { "id": "minecraft:emerald", "count": 64 }
+    ],
+    "5": [
+      { "id": "cobblemon:master_ball", "count": 5 },
+      { "id": "cobblemon:rare_candy", "count": 48 },
+      { "id": "cobblemon:iron", "count": 10 },
+      { "id": "cobblemon:zinc", "count": 10 },
+      { "id": "cobblemon:carbos", "count": 10 },
+      { "id": "cobblemon:calcium", "count": 10 },
+      { "id": "cobblemon:protein", "count": 10 },
+      { "id": "cobblemon:hp_up", "count": 10 },
+      { "id": "cobblemon:exp_candy_l", "count": 10 },
+      { "id": "cobblemon:relic_coin_pouch", "count": 64 },
+      { "id": "cobblemon:ability_patch", "count": 1 },
+      { "id": "cobblemon:pp_up", "count": 3 },
+      { "id": "minecraft:netherite_ingot", "count": 3 }
+    ],
+    "6": [
+      { "id": "cobblemon:master_ball", "count": 8 },
+      { "id": "cobblemon:rare_candy", "count": 56 },
+      { "id": "cobblemon:iron", "count": 12 },
+      { "id": "cobblemon:zinc", "count": 12 },
+      { "id": "cobblemon:carbos", "count": 12 },
+      { "id": "cobblemon:calcium", "count": 12 },
+      { "id": "cobblemon:protein", "count": 12 },
+      { "id": "cobblemon:hp_up", "count": 12 },
+      { "id": "cobblemon:exp_candy_l", "count": 12 },
+      { "id": "cobblemon:exp_candy_xl", "count": 3 },
+      { "id": "cobblemon:pp_up", "count": 5 },
+      { "id": "cobblemon:pp_max", "count": 3 },
+      { "id": "cobblemon:ability_patch", "count": 3 }
+    ],
+    "7": [
+      { "id": "cobblemon:master_ball", "count": 16 },
+      { "id": "cobblemon:rare_candy", "count": 64 },
+      { "id": "cobblemon:exp_candy_xl", "count": 16 },
+      { "id": "cobblemon:iron", "count": 16 },
+      { "id": "cobblemon:zinc", "count": 16 },
+      { "id": "cobblemon:carbos", "count": 16 },
+      { "id": "cobblemon:calcium", "count": 16 },
+      { "id": "cobblemon:protein", "count": 16 },
+      { "id": "cobblemon:hp_up", "count": 16 },
+      { "id": "cobblemon:exp_candy_l", "count": 16 },
+      { "id": "cobblemon:pp_up", "count": 12 },
+      { "id": "cobblemon:pp_max", "count": 8 },
+      { "id": "cobblemon:ability_patch", "count": 5 },
+      { "id": "cobblemon:beast_ball", "count": 32 }
+    ]
+  }
+}

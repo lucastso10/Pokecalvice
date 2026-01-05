@@ -1,0 +1,52 @@
+{
+  "species": "shellos",
+  "dex": 422,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Shellos"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Shellos"
+    },
+    {
+      "id": "defeat_species_mareep",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "mareep",
+      "title": "Defeat Mareep with Shellos"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Shellos"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Shellos"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Shellos"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_mareep",
+    "defeat_type_fighting_5",
+    "level_up_10",
+    "fish_3"
+  ]
+}

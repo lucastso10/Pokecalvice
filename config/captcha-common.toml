@@ -1,0 +1,56 @@
+#General settings
+[General]
+	#Defines the amount of ticks at the start of a world where no captcha's get requested [Default: 6000]
+	# Default: 6000
+	# Range: > 0
+	gracePeriod = 6000
+	#Defines the amount of time in seconds in which the captcha should be solved [Default: 15]
+	# Default: 15
+	# Range: > 1
+	captchaTime = 15
+	#Defines the cooldown between captcha requests in seconds [Default: 900 (15 minutes)]
+	# Default: 900
+	# Range: > 30
+	captchaCooldown = 900
+	#Disable automatic captcha cooldown [Default: false]
+	disableCooldown = true
+
+#Math settings
+[Math]
+	#Defines the max the first number can be in the addition problem [Default: 100]
+	# Default: 100
+	# Range: > 1
+	additionMaxX = 100
+	#Defines the max the second number can be in the addition problem [Default: 100]
+	# Default: 100
+	# Range: > 30
+	additionMaxY = 100
+	#Defines the max the first number can be in the subtraction problem [Default: 100]
+	# Default: 100
+	# Range: > 1
+	subtractionMaxX = 100
+	#Defines the max the second number can be in the subtraction problem [Default: 100]
+	# Default: 100
+	# Range: > 30
+	subtractionMaxY = 100
+	#Defines the max the first number can be in the multiplication problem [Default: 20]
+	# Default: 20
+	# Range: > 1
+	multiplicationMaxX = 20
+	#Defines the max the second number can be in the multiplication problem [Default: 20]
+	# Default: 20
+	# Range: > 20
+	multiplicationMaxY = 20
+	#Defines the max the first number can be in the division problem [Default: 100]
+	# Default: 100
+	# Range: > 1
+	divisionMaxX = 100
+	#Defines the max the second number can be in the division problem [Default: 100]
+	# Default: 100
+	# Range: > 30
+	divisionMaxY = 100
+
+#Text settings
+[Text]
+	#List of words that can be used to generate a text captcha (16 character length max)
+	textCaptchaWords = ["diamond", "iron", "gold", "emerald", "lapis", "coal", "redstone", "nether", "creeper", "skeleton", "spider", "zombie", "enderman", "endermite", "slime", "ghast", "pig", "cow", "sheep", "chicken", "rabbit", "mooshroom", "villager", "witch", "wither", "blaze", "guardian", "shulker", "ender dragon", "wither", "drowned", "husk", "stray", "phantom", "zoglin", "piglin", "panda", "bee", "cat", "fox", "ocelot"]

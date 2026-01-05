@@ -1,0 +1,52 @@
+{
+  "species": "bergmite",
+  "dex": 712,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Bergmite"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Bergmite"
+    },
+    {
+      "id": "defeat_species_goldeen",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "goldeen",
+      "title": "Defeat Goldeen with Bergmite"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Bergmite"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Bergmite"
+    },
+    {
+      "id": "fish_3",
+      "type": "FISH_THIS",
+      "amount": 3,
+      "title": "Fish up Bergmite"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_goldeen",
+    "defeat_type_fighting_5",
+    "level_up_10",
+    "fish_3"
+  ]
+}

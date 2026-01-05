@@ -1,0 +1,51 @@
+{
+  "species": "charmeleon",
+  "dex": 5,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Charmander into Charmeleon"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Charmeleon"
+    },
+    {
+      "id": "defeat_species_parasect",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "parasect",
+      "title": "Defeat Parasect with Charmeleon"
+    },
+    {
+      "id": "defeat_type_water_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "water",
+      "title": "Defeat Water-type Pokémon with Charmeleon"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Charmeleon"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Charmeleon"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_parasect",
+    "defeat_type_water_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

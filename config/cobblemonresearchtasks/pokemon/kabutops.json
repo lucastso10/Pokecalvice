@@ -1,0 +1,51 @@
+{
+  "species": "kabutops",
+  "dex": 141,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Kabuto into Kabutops"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Kabutops"
+    },
+    {
+      "id": "defeat_species_paras",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "paras",
+      "title": "Defeat Paras with Kabutops"
+    },
+    {
+      "id": "defeat_type_steel_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "steel",
+      "title": "Defeat Steel-type Pokémon with Kabutops"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Kabutops"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Kabutops"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_paras",
+    "defeat_type_steel_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

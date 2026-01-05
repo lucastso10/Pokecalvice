@@ -1,0 +1,58 @@
+{
+  "species": "basculegion",
+  "dex": 902,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Basculin into Basculegion"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Basculegion"
+    },
+    {
+      "id": "defeat_species_seedot",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "seedot",
+      "title": "Defeat Seedot with Basculegion"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Basculegion"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Basculegion"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Basculegion"
+    },
+    {
+      "id": "fish_1",
+      "type": "FISH_THIS",
+      "amount": 1,
+      "title": "Fish up Basculegion"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_seedot",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30",
+    "fish_1"
+  ]
+}

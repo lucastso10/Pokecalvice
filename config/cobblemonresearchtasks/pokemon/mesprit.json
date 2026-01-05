@@ -1,0 +1,52 @@
+{
+  "species": "mesprit",
+  "dex": 481,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Mesprit"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Mesprit"
+    },
+    {
+      "id": "defeat_species_plusle",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "plusle",
+      "title": "Defeat Plusle with Mesprit"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Mesprit"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Mesprit"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Mesprit"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_40",
+    "defeat_species_plusle",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

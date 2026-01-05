@@ -1,0 +1,25 @@
+{
+  "species": "bagon",
+  "rewards": [
+    {
+      "id": "cobblemon:relic_coin",
+      "count": 8
+    },
+    {
+      "id": "cobblemon:exp_candy_xs",
+      "count": 16
+    },
+    {
+      "id": "cobblemon:potion",
+      "count": 4
+    },
+    {
+      "id": "cobblemon:ancient_poke_ball",
+      "count": 8
+    },
+    {
+      "id": "cobblemon:rare_candy",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+name = "Pokecalvice"
+author = "Bolofofodoidao/Mori"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9e0c13ddea2c24fb610a313313d9216f9ebb1ed697dda6113e626ed962478a9e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.217"
+
+[options]
+acceptable-game-versions = ["fabric"]

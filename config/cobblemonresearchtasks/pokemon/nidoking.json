@@ -1,0 +1,51 @@
+{
+  "species": "nidoking",
+  "dex": 34,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Nidorino into Nidoking"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Nidoking"
+    },
+    {
+      "id": "defeat_species_graveler",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "graveler",
+      "title": "Defeat Graveler with Nidoking"
+    },
+    {
+      "id": "defeat_type_water_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "water",
+      "title": "Defeat Water-type Pokémon with Nidoking"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Nidoking"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Nidoking"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_graveler",
+    "defeat_type_water_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

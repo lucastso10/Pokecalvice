@@ -1,0 +1,51 @@
+{
+  "species": "machamp",
+  "dex": 68,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Machoke into Machamp"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Machamp"
+    },
+    {
+      "id": "defeat_species_hoothoot",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "hoothoot",
+      "title": "Defeat Hoothoot with Machamp"
+    },
+    {
+      "id": "defeat_type_psychic_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "psychic",
+      "title": "Defeat Psychic-type Pokémon with Machamp"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Machamp"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Machamp"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_hoothoot",
+    "defeat_type_psychic_20",
+    "friendship_120",
+    "level_up_30"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "species": "slowking",
+  "dex": 199,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Slowpoke into Slowking"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Slowking"
+    },
+    {
+      "id": "defeat_species_kabutops",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "kabutops",
+      "title": "Defeat Kabutops with Slowking"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Slowking"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Slowking"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Slowking"
+    },
+    {
+      "id": "fish_1",
+      "type": "FISH_THIS",
+      "amount": 1,
+      "title": "Fish up Slowking"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_kabutops",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30",
+    "fish_1"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "species": "lunala",
+  "dex": 792,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Cosmoem into Lunala"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Lunala"
+    },
+    {
+      "id": "defeat_species_shiftry",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "shiftry",
+      "title": "Defeat Shiftry with Lunala"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Lunala"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Lunala"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Lunala"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_40",
+    "defeat_species_shiftry",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

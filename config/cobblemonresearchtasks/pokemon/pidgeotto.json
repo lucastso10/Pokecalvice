@@ -1,0 +1,51 @@
+{
+  "species": "pidgeotto",
+  "dex": 17,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Pidgey into Pidgeotto"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Pidgeotto"
+    },
+    {
+      "id": "defeat_species_oddish",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "oddish",
+      "title": "Defeat Oddish with Pidgeotto"
+    },
+    {
+      "id": "defeat_type_electric_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "electric",
+      "title": "Defeat Electric-type Pokémon with Pidgeotto"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Pidgeotto"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Pidgeotto"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_oddish",
+    "defeat_type_electric_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

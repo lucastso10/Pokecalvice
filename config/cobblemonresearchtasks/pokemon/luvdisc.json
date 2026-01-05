@@ -1,0 +1,59 @@
+{
+  "species": "luvdisc",
+  "dex": 370,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Luvdisc"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Luvdisc"
+    },
+    {
+      "id": "defeat_species_trapinch",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "trapinch",
+      "title": "Defeat Trapinch with Luvdisc"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Luvdisc"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Luvdisc"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Luvdisc"
+    },
+    {
+      "id": "fish_2",
+      "type": "FISH_THIS",
+      "amount": 2,
+      "title": "Fish up Luvdisc"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_20",
+    "defeat_species_trapinch",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "fish_2"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "species": "absol",
+  "dex": 359,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Absol"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Absol"
+    },
+    {
+      "id": "defeat_species_omastar",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "omastar",
+      "title": "Defeat Omastar with Absol"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Absol"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Absol"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Absol"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_20",
+    "defeat_species_omastar",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

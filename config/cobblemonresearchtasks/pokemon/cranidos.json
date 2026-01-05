@@ -1,0 +1,45 @@
+{
+  "species": "cranidos",
+  "dex": 408,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Cranidos"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Cranidos"
+    },
+    {
+      "id": "defeat_species_wooper",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "wooper",
+      "title": "Defeat Wooper with Cranidos"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Cranidos"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Cranidos"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_wooper",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

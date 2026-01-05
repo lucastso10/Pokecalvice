@@ -1,0 +1,45 @@
+{
+  "species": "bulbasaur",
+  "dex": 1,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Bulbasaur"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Bulbasaur"
+    },
+    {
+      "id": "defeat_species_gloom",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "gloom",
+      "title": "Defeat Gloom with Bulbasaur"
+    },
+    {
+      "id": "defeat_type_ice_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "ice",
+      "title": "Defeat Ice-type Pokémon with Bulbasaur"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Bulbasaur"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_gloom",
+    "defeat_type_ice_5",
+    "level_up_10"
+  ]
+}

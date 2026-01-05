@@ -1,0 +1,33 @@
+{
+  "species": "gyarados",
+  "rewards": [
+    {
+      "id": "cobblemon:relic_coin",
+      "count": 32
+    },
+    {
+      "id": "cobblemon:exp_candy_m",
+      "count": 32
+    },
+    {
+      "id": "cobblemon:ancient_ultra_ball",
+      "count": 10
+    },
+    {
+      "id": "cobblemon:quick_ball",
+      "count": 10
+    },
+    {
+      "id": "cobblemon:hyper_potion",
+      "count": 12
+    },
+    {
+      "id": "cobblemon:rare_candy",
+      "count": 3
+    },
+    {
+      "id": "cobblemon:iron",
+      "count": 1
+    }
+  ]
+}

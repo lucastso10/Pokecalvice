@@ -1,0 +1,45 @@
+{
+  "species": "hoppip",
+  "dex": 187,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Hoppip"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Hoppip"
+    },
+    {
+      "id": "defeat_species_jigglypuff",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "jigglypuff",
+      "title": "Defeat Jigglypuff with Hoppip"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Hoppip"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Hoppip"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_jigglypuff",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

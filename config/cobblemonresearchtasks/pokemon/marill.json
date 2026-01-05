@@ -1,0 +1,44 @@
+{
+  "species": "marill",
+  "dex": 183,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Azurill into Marill"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Marill"
+    },
+    {
+      "id": "defeat_species_kabutops",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "kabutops",
+      "title": "Defeat Kabutops with Marill"
+    },
+    {
+      "id": "defeat_type_steel_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "steel",
+      "title": "Defeat Steel-type Pokémon with Marill"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Marill"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_10",
+    "defeat_species_kabutops",
+    "defeat_type_steel_5",
+    "level_up_10"
+  ]
+}

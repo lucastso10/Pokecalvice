@@ -1,0 +1,45 @@
+{
+  "species": "riolu",
+  "dex": 447,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Riolu"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Riolu"
+    },
+    {
+      "id": "defeat_species_raticate",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "raticate",
+      "title": "Defeat Raticate with Riolu"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Riolu"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Riolu"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_raticate",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

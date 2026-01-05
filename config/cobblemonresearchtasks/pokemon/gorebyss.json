@@ -1,0 +1,58 @@
+{
+  "species": "gorebyss",
+  "dex": 368,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Clamperl into Gorebyss"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Gorebyss"
+    },
+    {
+      "id": "defeat_species_ekans",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "ekans",
+      "title": "Defeat Ekans with Gorebyss"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Gorebyss"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Gorebyss"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Gorebyss"
+    },
+    {
+      "id": "fish_2",
+      "type": "FISH_THIS",
+      "amount": 2,
+      "title": "Fish up Gorebyss"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_ekans",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "fish_2"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "species": "primarina",
+  "dex": 730,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Brionne into Primarina"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Primarina"
+    },
+    {
+      "id": "defeat_species_ekans",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "ekans",
+      "title": "Defeat Ekans with Primarina"
+    },
+    {
+      "id": "defeat_type_fighting_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Primarina"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Primarina"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Primarina"
+    },
+    {
+      "id": "fish_1",
+      "type": "FISH_THIS",
+      "amount": 1,
+      "title": "Fish up Primarina"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_ekans",
+    "defeat_type_fighting_20",
+    "friendship_120",
+    "level_up_30",
+    "fish_1"
+  ]
+}

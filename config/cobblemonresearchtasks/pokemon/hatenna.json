@@ -1,0 +1,45 @@
+{
+  "species": "hatenna",
+  "dex": 856,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Hatenna"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Hatenna"
+    },
+    {
+      "id": "defeat_species_poochyena",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "poochyena",
+      "title": "Defeat Poochyena with Hatenna"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Hatenna"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Hatenna"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_poochyena",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

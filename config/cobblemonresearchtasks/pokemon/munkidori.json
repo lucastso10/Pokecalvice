@@ -1,0 +1,52 @@
+{
+  "species": "munkidori",
+  "dex": 1015,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 1,
+      "title": "Catch Munkidori"
+    },
+    {
+      "id": "defeat_any_40",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 40,
+      "title": "Defeat Pokémon with Munkidori"
+    },
+    {
+      "id": "defeat_species_roggenrola",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "roggenrola",
+      "title": "Defeat Roggenrola with Munkidori"
+    },
+    {
+      "id": "defeat_type_fighting_30",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 30,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Munkidori"
+    },
+    {
+      "id": "friendship_135",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 135,
+      "title": "Reach 135+ friendship with Munkidori"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Munkidori"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_40",
+    "defeat_species_roggenrola",
+    "defeat_type_fighting_30",
+    "friendship_135",
+    "level_up_10"
+  ]
+}

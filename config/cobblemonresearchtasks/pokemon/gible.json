@@ -1,0 +1,45 @@
+{
+  "species": "gible",
+  "dex": 443,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Gible"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Gible"
+    },
+    {
+      "id": "defeat_species_nidoran♀",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "nidoran♀",
+      "title": "Defeat Nidoran♀ with Gible"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Gible"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Gible"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_nidoran♀",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "species": "tandemaus",
+  "dex": 924,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Tandemaus"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Tandemaus"
+    },
+    {
+      "id": "defeat_species_clefable",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "clefable",
+      "title": "Defeat Clefable with Tandemaus"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Tandemaus"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Tandemaus"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_clefable",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

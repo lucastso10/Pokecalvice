@@ -1,0 +1,51 @@
+{
+  "species": "golbat",
+  "dex": 42,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Zubat into Golbat"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Golbat"
+    },
+    {
+      "id": "defeat_species_caterpie",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "caterpie",
+      "title": "Defeat Caterpie with Golbat"
+    },
+    {
+      "id": "defeat_type_rock_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "rock",
+      "title": "Defeat Rock-type Pokémon with Golbat"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Golbat"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Golbat"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_caterpie",
+    "defeat_type_rock_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

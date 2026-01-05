@@ -1,0 +1,58 @@
+{
+  "species": "poliwhirl",
+  "dex": 61,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Poliwag into Poliwhirl"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Poliwhirl"
+    },
+    {
+      "id": "defeat_species_weedle",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "weedle",
+      "title": "Defeat Weedle with Poliwhirl"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Poliwhirl"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Poliwhirl"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Poliwhirl"
+    },
+    {
+      "id": "fish_2",
+      "type": "FISH_THIS",
+      "amount": 2,
+      "title": "Fish up Poliwhirl"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_weedle",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "fish_2"
+  ]
+}

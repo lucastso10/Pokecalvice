@@ -1,0 +1,25 @@
+{
+  "species": "arctozolt",
+  "rewards": [
+    {
+      "id": "cobblemon:relic_coin_pouch",
+      "count": 32
+    },
+    {
+      "id": "cobblemon:exp_candy_l",
+      "count": 10
+    },
+    {
+      "id": "cobblemon:beast_ball",
+      "count": 3
+    },
+    {
+      "id": "cobblemon:max_potion",
+      "count": 16
+    },
+    {
+      "id": "cobblemon:rare_candy",
+      "count": 3
+    }
+  ]
+}

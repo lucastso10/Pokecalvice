@@ -1,0 +1,25 @@
+{
+  "species": "celebi",
+  "rewards": [
+    {
+      "id": "cobblemon:relic_coin_pouch",
+      "count": 48
+    },
+    {
+      "id": "cobblemon:exp_candy_xl",
+      "count": 5
+    },
+    {
+      "id": "cobblemon:ancient_origin_ball",
+      "count": 1
+    },
+    {
+      "id": "cobblemon:full_restore",
+      "count": 16
+    },
+    {
+      "id": "cobblemon:rare_candy",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "species": "mankey",
+  "dex": 56,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Mankey"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Mankey"
+    },
+    {
+      "id": "defeat_species_baltoy",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "baltoy",
+      "title": "Defeat Baltoy with Mankey"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Mankey"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Mankey"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_baltoy",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

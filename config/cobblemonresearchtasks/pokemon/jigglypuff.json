@@ -1,0 +1,44 @@
+{
+  "species": "jigglypuff",
+  "dex": 39,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Igglybuff into Jigglypuff"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Jigglypuff"
+    },
+    {
+      "id": "defeat_species_vibrava",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "vibrava",
+      "title": "Defeat Vibrava with Jigglypuff"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Jigglypuff"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Jigglypuff"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_10",
+    "defeat_species_vibrava",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "species": "kakuna",
+  "dex": 14,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Weedle into Kakuna"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Kakuna"
+    },
+    {
+      "id": "defeat_species_azumarill",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "azumarill",
+      "title": "Defeat Azumarill with Kakuna"
+    },
+    {
+      "id": "defeat_type_fire_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fire",
+      "title": "Defeat Fire-type Pokémon with Kakuna"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Kakuna"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Kakuna"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_azumarill",
+    "defeat_type_fire_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

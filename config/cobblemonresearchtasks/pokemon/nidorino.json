@@ -1,0 +1,51 @@
+{
+  "species": "nidorino",
+  "dex": 33,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Nidoran M into Nidorino"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Nidorino"
+    },
+    {
+      "id": "defeat_species_clefable",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "clefable",
+      "title": "Defeat Clefable with Nidorino"
+    },
+    {
+      "id": "defeat_type_ground_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "ground",
+      "title": "Defeat Ground-type Pokémon with Nidorino"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Nidorino"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Nidorino"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_clefable",
+    "defeat_type_ground_10",
+    "friendship_80",
+    "level_up_25"
+  ]
+}

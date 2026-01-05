@@ -1,0 +1,22 @@
+{
+  "species": "cosmog",
+  "dex": 789,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Cosmog"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Cosmog"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "level_up_10"
+  ]
+}

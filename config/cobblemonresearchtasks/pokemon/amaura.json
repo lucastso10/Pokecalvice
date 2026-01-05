@@ -1,0 +1,45 @@
+{
+  "species": "amaura",
+  "dex": 698,
+  "tasks": [
+    {
+      "id": "capture",
+      "type": "CAPTURE_THIS",
+      "amount": 3,
+      "title": "Catch Amaura"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Amaura"
+    },
+    {
+      "id": "defeat_species_trapinch",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "trapinch",
+      "title": "Defeat Trapinch with Amaura"
+    },
+    {
+      "id": "defeat_type_fighting_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Amaura"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Amaura"
+    }
+  ],
+  "_known_tasks": [
+    "capture",
+    "defeat_any_10",
+    "defeat_species_trapinch",
+    "defeat_type_fighting_5",
+    "level_up_10"
+  ]
+}
