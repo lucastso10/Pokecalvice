@@ -9115,11 +9115,6 @@ hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
-file = "mods/mcwifipnp.pw.toml"
-hash = "6fc64d152cc682c09bf8092d55b7f5341a4fab9dbd1c17a6246ec2405965cb4f"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
